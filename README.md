@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rmznvn
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, JS,Typescript,Jquery, React.js, Node.js, MongoDB, MySQL, Canvas, Flexbox
+- 🌱 I’m currently learning HTML,CSS, JS, React.js, Canvas, Flexbox, Figma
 - 📫 How to reach me @Natal_ia
 
 <!---
