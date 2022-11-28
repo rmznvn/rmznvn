@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rmznvn
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML,CSS, JS, React.js, Canvas, Flexbox, Figma
+- 👋 Hi, I’m Natalia
+- 👀 I’m interested in web development, UX/UI
+- 🌱 I’m currently learning HTML,CSS, JS, React.js, Figma
 - 📫 How to reach me @Natal_ia
 
 <!---
