@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Natalia
-- 👀 I’m interested in web development, UX/UI
-- 🌱 I’m currently learning HTML,CSS, JS, React.js, Figma
-- 📫 How to reach me @Natal_ia
+- 👀 I’m interested in web development and UX/UI
+- 🌱 I’m skilled in HTML,CSS, JS, React.js, Figma, Git, Gulp
+- 📫 Reach me via telegrm @Natal_ia
 
 <!---
 rmznvn/rmznvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
