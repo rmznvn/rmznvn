@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Natalia
 - 👀 I’m interested in web development and UX/UI
 - 🌱 I’m skilled in HTML, CSS, JS, React.js, Figma, Git and Gulp
-- 📫 Reach me via telegram @Natal_ia
 
 <!---
 rmznvn/rmznvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
