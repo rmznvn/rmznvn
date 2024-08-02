@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natalia
 - 👀 I’m interested in web development and UX/UI design
-- 🌱 I’m skilled in HTML, CSS, JS, Figma, Webflow, Git
+- 🌱 I’m skilled in HTML, CSS, JS, Figma, Webflow, 3D animation.
 
 <!---
 rmznvn/rmznvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
